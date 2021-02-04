@@ -5,9 +5,10 @@
 ### Fecha: 04/02/2021
 
 ### Despliegue Heroku
-https://vast-wildwood-64297.herokuapp.com/
+[Heroku](https://vast-wildwood-64297.herokuapp.com/)
 
 ### Circleci
+[![CircleCI](https://circleci.com/gh/jsr25/Taller2Arep.svg?style=svg)](https://app.circleci.com/pipelines/github/jsr25/Taller2Arep)
 
 ### Prerequisitos
 Para la ejecución de la aplicación de manera local se necesitan los siguientes componentes:
