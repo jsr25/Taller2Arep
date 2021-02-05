@@ -3,11 +3,17 @@ package edu.escuelaing.arep.sparkweb;
 import edu.escuelaing.arep.calc.CalcStat;
 import edu.escuelaing.arep.util.LinkedList;
 
-import javax.swing.*;
+
 import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Aplicacion de Spark JAVA
+ *
+ * Autor: Juan Sebastian Ramos Isaza
+ *
+ */
 import static spark.Spark.*;
 public class SparkWebApp {
 

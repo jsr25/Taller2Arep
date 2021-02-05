@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.escuelaing.arep.calc","l":"CalcStat"},{"p":"edu.escuelaing.arep.util","l":"IteratorList"},{"p":"edu.escuelaing.arep.util","l":"LinkedList"},{"p":"edu.escuelaing.arep.util","l":"Node"},{"p":"edu.escuelaing.arep.util","l":"Reader"},{"p":"edu.escuelaing.arep.sparkweb","l":"SparkWebApp"}]
